@@ -1,4 +1,4 @@
-const API_KEY = 'f1eee7eb411317af24fdc1c50127f0ff';
+// const API_KEY = 'f1eee7eb411317af24fdc1c50127f0ff';
 const city = 'Tokyo';
 const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric&lang=ja`;
 
